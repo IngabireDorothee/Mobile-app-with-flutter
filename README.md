@@ -38,5 +38,5 @@ To get started with any of these projects, follow the steps below:
 1. **Clone the repository**  
    Use the following command to clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/flutter-projects.git
+   git clone https://github.com/IngabireDorothee/flutter-projects.git
 
