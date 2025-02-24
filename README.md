@@ -1,3 +1,5 @@
+Names: NTAWURENZINGABIRE Dorothee
+Reg no: 222018712
 # Flutter Projects Repository
 
 Welcome to my Flutter Projects repository! Here you'll find all the Flutter applications and projects I am currently working on or have worked on. Each project may have different features and functionality, showcasing different aspects of Flutter development, from basic UIs to more advanced features like state management, integrations, and animations.
